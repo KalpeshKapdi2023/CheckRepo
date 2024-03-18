@@ -3,3 +3,5 @@ I am fine
 I am learning gtit tutorial
 I am from Vansda
 I am software developer
+i knows programming languages like dotnet,react and sql databases
+
