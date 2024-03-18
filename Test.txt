@@ -5,5 +5,7 @@ i am from vansda.
 i am software developer.
 
 i like watching movie and listening song.
+git merging ....
+git tutorial.....
 
 
